@@ -1,8 +1,8 @@
-# Tennis stroke classification with ML
+# HAR - Tennis stroke classification with ML
 
 This project details how to classify a tennis player stroke with Machine Learning with data gathered from an Apple Watch.
 
-The application required to gather this data is [link text](https://). It needs the following REST API to export data from the device: [link text](https://).
+The application required to gather this data is [TennisIO]([https://](https://github.com/ivangonzalezz/TennisIO)). It needs the following REST API to export data from the device: [TennisIOAPI]([https://](https://github.com/ivangonzalezz/TennisIOAPI)).
 
 It's recommended to run this notebook at [Google Colab](https://colab.research.google.com), where it's built.
 
